@@ -14,6 +14,12 @@ n.b. I have not necessarily used these libraries, tools or techniques - this rep
 
 * [babel-plugin-transform-named-imports](https://github.com/SectorLabs/babel-plugin-transform-named-imports) - allows for better tree shaking; see [this thread](https://twitter.com/AdamRackis/status/1023309788246167552) for more context
 
+## Web
+
+### Security
+
+* [HTTPS, CORS, CSP, SRI & CORB](https://twitter.com/jaffathecake/status/1006445088820506626?lang=en) - simple explanation of what each of these standards protect against
+
 ## Agile
 
 ### Estimation
