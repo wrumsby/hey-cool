@@ -14,6 +14,11 @@ n.b. I have not necessarily used these libraries, tools or techniques - this rep
 
 * [babel-plugin-transform-named-imports](https://github.com/SectorLabs/babel-plugin-transform-named-imports) - allows for better tree shaking; see [this thread](https://twitter.com/AdamRackis/status/1023309788246167552) for more context
 
+## Misc
+
+* [http-status](https://www.npmjs.com/package/http-status) - a small module I lkike to use when working with HTTP status codes
+* [mime-types](https://www.npmjs.com/package/mime-types) - a small module I like to use when working with MIME types
+
 ## Web
 
 ### Security
