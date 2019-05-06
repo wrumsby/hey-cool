@@ -6,6 +6,10 @@ n.b. I have not necessarily used these libraries, tools or techniques - this rep
 
 ## JavaScript
 
+### Package Management
+
+* [synp](https://github.com/imsnif/synp) - convert a project from npm to Yarn and vice versa
+
 ### Errors
 
 * [ono](https://github.com/James-Messinger/ono) - supports wrapping errors, etc.
