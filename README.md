@@ -20,6 +20,7 @@ n.b. I have not necessarily used these libraries, tools or techniques - this rep
 
 ## Misc
 
+* [cockatiel](https://github.com/connor4312/cockatiel) - Polly-inspired resilience and transient-fault-handling library
 * [http-status](https://www.npmjs.com/package/http-status) - a small module I lkike to use when working with HTTP status codes
 * [mime-types](https://www.npmjs.com/package/mime-types) - a small module I like to use when working with MIME types
 
